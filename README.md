@@ -1,6 +1,6 @@
 # How to Synbio
 
-Hello Everyone!
+Hello everyone!
 
 My name is [Tim](https://github.com/sponsors/TimothyStiles/) and I'm the creator of [Poly](https://github.com/TimothyStiles/poly), an open source Go library for engineering organisms.
 
