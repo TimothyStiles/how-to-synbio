@@ -1,4 +1,4 @@
-# :dna: How to Synbio :dna:
+# How to Synbio :dna:
 
 Hello everyone!
 
