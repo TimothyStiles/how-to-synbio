@@ -6,7 +6,7 @@ My name is [Tim](https://github.com/sponsors/TimothyStiles/) and I'm the creator
 
 We onboard new software engineers all the time who want to learn about synthetic biology while also making meaningful contributions to what is quickly becoming the greatest open source synbio software library around.
 
-This is just the beginning our of resources doc. The field is moving fast and things may not be complete. If you think we're missing something let us know by opening an issue or even go ahead and make a pull request if you feel like adding resources and editing.
+This is just the beginning of our resources doc. To be honest there isn't much available but if you think we're missing something let us know by opening an issue or even go ahead and make a pull request if you feel like adding resources and editing.
 
 Also, feel free to join our project [discord](https://discord.gg/Hc8Ncwt). We're a pretty great group and always love having new people jump onto our server to play a little supertuxkart and hack.
 
@@ -16,7 +16,7 @@ Tim
 
 ## Resources
 
-Synbio doesn't really have a definitive textbook since the field moves too fast.
+Synbio doesn't really have a definitive textbook.
 
 Instead we have these.
 
